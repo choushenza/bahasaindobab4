@@ -1,0 +1,6 @@
+{
+  "name": "Wirausaha Cilik & Ragam Kata - Kelas 5 SD",
+  "description": "Media pembelajaran interaktif Bahasa Indonesia Kelas 5 Bab IV: Perancang Wirausaha Cilik (Market Day, tugas kelompok, studio poster promosi) dan Permainan Pemilah Denotasi vs. Konotasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
